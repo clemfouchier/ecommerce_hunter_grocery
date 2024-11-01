@@ -130,7 +130,7 @@ Voici les données que j'ai essayées de créer :
 
 Utilisant la version gratuite, ChatGPT n'a pas pu m'envoyer les données modifiées. J'ai donc dû créer un script Python (update_data.py) sur la base du code envoyé et l'executer via la commande Windows.
 
-Finalement, je n'ai utilisé aucune de ces données dans le tableau de bord final. Certaines variables étaient plus pertinentes que d'autres. J'aurais pu utiliser les quantités, qui étaient cohérentes, s'il y avait un volet logistique à l'analyse. Les prix étaient en général peu pertinants, voire fantaisistes. Ils auraient rendu l'analyse étrange. 
+Finalement, je n'ai utilisé aucune de ces données dans le tableau de bord final. Certaines variables étaient plus pertinentes que d'autres. J'aurais pu utiliser les quantités, qui étaient cohérentes, s'il y avait un volet logistique à l'analyse. Les prix étaient en général peu pertinents, voire fantaisistes. Ils auraient rendu l'analyse étrange. 
 
 Mais surtout, ChatGPT n'a pas du tout respecté les consignes sur l'édition des dates (à sa décharge, ce n'était pas une tâche facile), ce qui a rendu la variable totalement inutilisable. C'est fort dommage, puisque les dates sont incontournables dans le monde de la data, et leur manipulation est souvent spécifique à chaque outil. Elle m'a uniquement permis d'utiliser une table calendaire dans PowerBI dans le but de m'exercer.
 
