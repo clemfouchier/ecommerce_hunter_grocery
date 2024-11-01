@@ -52,7 +52,7 @@ Aussi, l'ensemble des tâches, de la préparation des données à la création d
 
 En regardant les chiffres présentés à gauche, nous apprenons qu'il y a 105 000 clients actifs environ pour 200 000 commandes. Ce qui donne un nombre de commandes par client en moyenne de 1,9. 
 
-Ce chiffre démontre une faible fidélité des utilisateurs, qui semblent réaliser des achats ponctuels sur la plateforme, par exemple pour acheter les ingrédiants nécéssaires à la réalisation de recettes bien précises. Ce qui semble d'ailleurs mis en évidence sur le site : 
+Ce chiffre démontre une faible fidélité des utilisateurs, qui semblent réaliser des achats ponctuels sur la plateforme, par exemple pour acheter les ingrédients nécéssaires à la réalisation de recettes bien précises. Ce qui semble d'ailleurs mis en évidence sur le site : 
 
 ![Apperçu site Hunter Grocery](https://github.com/clemfouchier/ecommerce_hunter_grocery/blob/main/find_by_ingrediants.png?raw=true)
 
@@ -139,11 +139,11 @@ N'hésitez pas à me contacter pour avoir le prompt.
 Source pour la création de données synthétiques via ChatGPT : https://medium.com/@atifhussain/why-and-how-i-use-chatgpt-to-create-synthetic-datasets-for-my-students-f2ca427ea860
 
 
-## 2. L'installation de SQL sur mon PC (Postgres)
+## 2. L'installation de SQL sur mon PC (Postgre)
 
 Avant toute manipulation, j'ai dû installer SQL sur mon PC, puisque c'est la première fois que je manipule ce langage dans le cadre d'un projet personnel.
 
-Gratuit et largement utilisé en entreprise, j'ai opté pour Postgres. Je l'ai ensuite couplé à VSCode pour profiter des bienfaits de l'IDE.
+Gratuit et largement utilisé en entreprise, j'ai opté pour Postgre. Je l'ai ensuite couplé à VSCode pour profiter des bienfaits de l'IDE.
 
 Pour l'installer chez vous, vous pouvez suivre cette vidéo à partir d'1h26 minutes : https://www.youtube.com/watch?v=7mz73uXD9DA&t=6623s
 
@@ -159,7 +159,7 @@ Une fois l'environnement SQL mis en place, j'ai pu intégrer les données en sui
 
 Attention, pour que les données soient chargées, j'ai du déplacer mon fichier de données dans le dossier "Public" : C:\Users\Public.
 
-En plus de la vidéo envoyée ci-dessus, ce site m'a aidé : https://learnsql.fr/blog/comment-importer-des-fichiers-csv-dans-postgresql-avec-pgadmin/
+En plus de la vidéo envoyée ci-dessus, ce site m'a aidé : https://learnsql.fr/blog/comment-importer-des-fichiers-csv-dans-Postgreql-avec-pgadmin/
 
 
 ## 4. L'analyse exploratoire des données dans SQL
@@ -185,9 +185,9 @@ Il en va de même sur l'optimisation des stocks, qui demande une analyse approfo
 Et même sur l'objectif d'accroître les ventes, il a été compliqué de regarder les produits qui sont plus achetés en combinaison d'autres produits (par exemple les produits plus achetés par les acheteurs de soja sans lactose).
 
 
-## 5. La connexion des données de Postgres à PowerBI
+## 5. La connexion des données de Postgre à PowerBI
 
-Petite difficulté ici, lorsque l'on travail sur un environnement Postgres, il faut chercher le connecteur "SQL Postgres" dans PowerBI, et non le connecteur général SQL.
+Petite difficulté ici, lorsque l'on travail sur un environnement Postgre, il faut chercher le connecteur "SQL Postgre" dans PowerBI, et non le connecteur général SQL.
 
 Avec cette vidéo, vous ne devriez pas avoir de problèmes : https://www.youtube.com/watch?v=4S2TfV1G0so
 
@@ -250,7 +250,7 @@ Par exemple, voici le code le plus simple du projet :
 
 En bon français, la formule indique que la mesure 'Nb de Commandes' compte le nombre de valeurs uniques de la variable 'Order ID' dans la table 'public ecommerce_data'.
 
-C'est ici que ChatGPT s'est révélé le plus précieux. Il m'a permis de pallier mon manque de connaissance et de me révéler l'existance de formules dont je ne soupçonnais pas l'existance.
+C'est ici que ChatGPT s'est révélé le plus précieux. Il m'a permis de pallier mon manque de connaissance et de me révéler l'existance de formules très utiles.
 
 Par exemple ici la formule AVERAGEX qui m'a permis de calculer le nombre moyen de références achetées par commande :
 
@@ -285,8 +285,6 @@ Message à destination des débutants : si vous êtes habitués à utiliser Powe
 La dernière étape a été la vérification des chiffres utilisés dans SQL, pour m'assurer que les chiffres présentés soient justes.
 
 Cette étape a été nécessaire, parfois pour apporter des modifications mineures, pour comprendre quand les chiffres diffèrent, et aussi pour s'assurer que les bons choix ont été faits.
-
-D'autant plus que la table utilisée comporte quelques complexités. Une ligne du jeu de données présente une référence achetée. Mais nous pouvons parfois présenter les résultats par commande et par utilisateur. Or, il est facile de s'emmêler les pinceaux entre le niveau référence et le niveau commande (Order ID --> niveau référence et DISTINCT Order ID --> niveau commande).
 
 Ainsi, je suis bien plus confiant dans mon travail, et si l'on me pose les questions, je pourrai y répondre avec plus d'assurance.
 
