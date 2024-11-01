@@ -1,4 +1,4 @@
-# Analyse des données du site web de l'épicerie en ligne Hunter Grocery avec SQL et PowerBI
+# Analyse des données du site web de l'épicerie en ligne Grocery Hunter avec SQL et PowerBI
 ![Logo Hunter Grocery](https://github.com/clemfouchier/ecommerce_hunter_grocery/blob/main/Logo_hunter_grocery.png?raw=true)
 
 ## Introduction
