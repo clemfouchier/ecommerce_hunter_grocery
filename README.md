@@ -277,7 +277,7 @@ Présenté ainsi, il a été facile de créer une analyse que l'on peut présent
 
 Les utilisateurs pourront également rentrer dans les détails en cliquant sur les parties qui les intéressent : l'ensemble des chiffres du rapport s'adapteront (cf exemple dans la partie analyse).
 
-Message à destination des débutants : si vous êtes habitués à utiliser PowerPoint, vous vous rendrez comptes que les graphiques sont bien moins intuitifs à créer et à personnaliser. La raison est que PowerBI est fait pour se mettre à jour de manière automatisée. Il faut parfois chercher un peu avant de parvenir à afficher les graphiques de la forme que l'on souhaite. Et parfois, ce ne sera pas possible : il faudra passer par des voies détournées.
+Message à destination des débutants : si vous êtes habitués à utiliser PowerPoint, vous vous rendrez compte que les graphiques sont bien moins intuitifs à créer et à personnaliser. La raison est que PowerBI est fait pour se mettre à jour de manière automatisée. Il faut parfois chercher un peu avant de parvenir à afficher les graphiques de la forme que l'on souhaite. Et parfois, ce ne sera pas possible : il faudra passer par des voies détournées.
 
 
 ## 10. La vérification des chiffres via SQL
