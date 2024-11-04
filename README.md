@@ -299,6 +299,6 @@ Elle m'a permis aussi d'utiliser ChatGPT à plusieurs étapes, que ce soit pour 
 
 J'ai revu l'ensemble de mes cours sur PowerBI pour m'assurer que les données soient efficacement chargées, transformées et modélisées afin que je puisse (ou potentiellement un autre collaborateur) facilement créer un tableau de bord ou un rapport.
 
-Enfin, la création d'un tableau de bord clair, synthétique et esthétique m'ont aidé à produire une analyse sous forme de storytelling en suivant l'ordre naturel de lecture de chiffres, et en reprenant les codes graphiques de l'entreprise. J'en ai tiré des recommandations précises pour améliorer l'expérience d'utilisation du site web et ainsi accroître les ventes.
+Enfin, la création d'un tableau de bord clair, synthétique et esthétique m'a aidée à produire une analyse sous forme de storytelling en suivant l'ordre naturel de lecture de chiffres, et en reprenant les codes graphiques de l'entreprise. J'en ai tiré des recommandations précises pour améliorer l'expérience d'utilisation du site web et ainsi accroître les ventes.
 
 Tous les retours sont bienvenus, n'hésitez surtout pas :).
