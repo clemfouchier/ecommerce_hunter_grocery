@@ -12,7 +12,7 @@ La première partie sera consacrée à la l'analyse. Et la seconde détaillera l
 
 ## Contexte :
 
-Le site "The Hunter Grocery", qui propose la livraison de produits issus d'épiceries locales, a mis à disposition en libre-service des données qui rescencent l'ensemble des produits commandés pendant l'année 2022 : https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-marketing-2023
+Le site "The Hunter Grocery", qui propose la livraison de produits issus d'épiceries locales, a mis à disposition en libre-service des données qui recensent l'ensemble des produits commandés pendant l'année 2022 : https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-marketing-2023
 
 Elles ont été mises en ligne pour effectuer des opérations de Machine Learning comme de la personnalisation des recommandations ou du clustering. J'ai choisi d'utiliser ce jeu de données pour produire une analyse grâce à la visualisation des données clés. Le tout avec pour objectif d'accroître les ventes sur le site.
 
