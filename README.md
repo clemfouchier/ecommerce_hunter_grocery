@@ -170,7 +170,7 @@ Je ne vais pas détailler l'ensemble des étapes de ce travail fastidieux sur SQ
 
 L'analyse exploratoire en SQL m'a permis d'en constater les forces et les faiblesses, en compraison de Python.
 
-**Les forces, c'est un temps d'execution fiable, et une syntaxe facile à comprendre et à utiliser**. Il est simple de faire des requêtes pour avoir des informations sur une colonne, ou pour avoir des informations précises en intérrogeant la base de données. 
+**Les forces, c'est un temps d'execution fiable, et une syntaxe facile à comprendre et à utiliser**. Il est simple de faire des requêtes pour avoir des informations sur une colonne, ou pour avoir des informations précises en interrogeant la base de données. 
 
 Mais lorsque l'on veut une analyse exploratoire complète, il faut faire un nombre de requêtes important, voire très important, alors que **Python offre des possibilités pour aller bien plus vite avec quelques lignes de code**. Avec SQL, nous pouvons nous perdre dans un flot ininterrompu de requêtes.
 
