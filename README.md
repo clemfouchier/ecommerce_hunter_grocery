@@ -282,7 +282,7 @@ Message à destination des débutants : si vous êtes habitués à utiliser Powe
 
 ## 10. La vérification des chiffres via SQL
 
-La dernière étape a été la vérification des chiffres utilisés dans SQL, pour m'assurer que les chiffres présentés soient justes.
+La dernière étape a été la vérification des chiffres utilisés dans SQL, pour m'assurer que les chiffres présentés sont justes.
 
 Cette étape a été nécessaire, parfois pour apporter des modifications mineures, pour comprendre quand les chiffres diffèrent, et aussi pour s'assurer que les bons choix ont été faits.
 
