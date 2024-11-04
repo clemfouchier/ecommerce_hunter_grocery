@@ -250,7 +250,7 @@ Par exemple, voici le code le plus simple du projet :
 
 En bon français, la formule indique que la mesure 'Nb de Commandes' compte le nombre de valeurs uniques de la variable 'Order ID' dans la table 'public ecommerce_data'.
 
-C'est ici que ChatGPT s'est révélé le plus précieux. Il m'a permis de pallier mon manque de connaissance et de me révéler l'existance de formules très utiles.
+C'est ici que ChatGPT s'est révélé le plus précieux. Il m'a permis de pallier mon manque de connaissance et de me révéler l'existence de formules très utiles.
 
 Par exemple ici la formule AVERAGEX qui m'a permis de calculer le nombre moyen de références achetées par commande :
 
