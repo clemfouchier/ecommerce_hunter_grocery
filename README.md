@@ -89,7 +89,7 @@ Si des relances devaient être mises en place, le lundi à 9h semble être une b
 
 Selon moi, l'enjeu de Hunter Grocery est aujourd'hui de **travailler sur le "produit" pour le rendre plus désirable et ainsi l'ancrer dans les habitudes**, tout en conservant son positionnement sur les produits sains et sur la mise en avant d'épiceries locales.
 
-Avant d'attirer de nouveaux clients, il convient de **créer un expérience unique et attractive** à tous les niveaux, de manière à tisser un lien avec les indidus. Ainsi, il sera possible de **transformer les utilisateurs les plus fidèles en ambassadeurs de la marque**. Voici donc mes préconisations concrètes : 
+Avant d'attirer de nouveaux clients, il convient de **créer un expérience unique et attractive** à tous les niveaux, de manière à tisser un lien avec les individus. Ainsi, il sera possible de **transformer les utilisateurs les plus fidèles en ambassadeurs de la marque**. Voici donc mes préconisations concrètes : 
 
 1. Mettre un place un service de **newsletter** chaque semaine ou chaque mois **proposant des recettes de saison à cuisiner avec des produits frais**. Il faudrait au préalable s'assurer que l'on ne puisse commander que lorsque l'on est loggés pour pouvoir envoyer des campagnes d'emails.
 
